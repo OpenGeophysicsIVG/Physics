@@ -1,0 +1,5 @@
+Download PyCharm
+использовать
+download-cdn.jetbrains.com
+Например
+https://download.jetbrains.com/python/pycharm-2025.2.5.exe
